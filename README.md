@@ -2,6 +2,8 @@
 
 This handy gadget helps us keep a log of all dirty diapers. This data is an important metric in tracking the health of a baby. Every time we change a diaper, we just push the appropriate button and the data is logged to a Google Sheets spreadsheet.
 
+![Main Pic](pics/DiaperLogBox.jpg)
+
 ## Acknowledgements
 These links were useful in learning that I could/how to log to Google sheets from an Arduino:
 https://create.arduino.cc/projecthub/24Ishan/log-temperature-data-to-google-sheets-0b189b
